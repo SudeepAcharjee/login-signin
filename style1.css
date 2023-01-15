@@ -1,0 +1,45 @@
+.signin-box {
+    width: 280px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background: rgb(255, 247, 132);
+    margin: 100px auto;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    background-color: #7fa4f5;
+    box-sizing: border-box;
+  }
+  
+  input[type="button"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+  }
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+   body{
+    background-color: rgba(31, 21, 21, 0.753);
+   }
